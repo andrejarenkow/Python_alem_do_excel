@@ -1,2 +1,2 @@
-# Python_alem_do_excel
+# Python Além do Excel
 Repositório para manter o curso de Python
